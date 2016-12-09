@@ -117,7 +117,7 @@ html {
 
 .nav-left {
   float: left;
-  margin-left: -10px;
+  margin-left: 10px;
 }
 
 .nav-right {
