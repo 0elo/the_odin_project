@@ -3,3 +3,4 @@
 
 - [Google Homepage](https://www.github.com/0elo/the_odin_project/tree/master/google-homepage)
 - [JS 101](https://www.github.com/0elo/the_odin_project/tree/master/js-101)
+- [JS/jQuery](https://github.com/0elo/the_odin_project/tree/master/js-jquery)
