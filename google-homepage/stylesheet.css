@@ -91,13 +91,14 @@ html {
 }
 
 .nav-bot {
-  position: relative;
+  position: absolute;
   background-color: whitesmoke;
-  display: block;
-  bottom: 0%;
+  display: inline-block;
+  bottom: 0;
   width: 100%;
   height: 30px;
-  padding-top: 15px;
+  padding-top: 8px;
+  padding-bottom: 20px;
 }
 
 .nav-bot ul {
